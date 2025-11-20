@@ -1,0 +1,5 @@
+,name,file_name,date,status_code,url,encoding
+0,idd,jobportals/2025-05-11-idd.html,2025-05-11,403,https://de.indeed.com/,UTF-8
+1,lkn,jobportals/2025-05-11-lkn.html,2025-05-11,200,https://www.linkedin.com/jobs,utf-8
+2,mst,jobportals/2025-05-11-mst.html,2025-05-11,200,https://www.monster.de/,ISO-8859-1
+3,abg,jobportals/2025-05-11-abg.html,2025-05-11,200,https://www.arbeitsagentur.de/jobsuche/willkommen,UTF-8

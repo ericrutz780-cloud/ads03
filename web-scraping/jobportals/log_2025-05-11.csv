@@ -1,0 +1,7 @@
+,name,file_name,date,status_code,url,encoding
+0,sz,jobportals/2025-05-11-sz.html,2025-05-11,200,https://www.sueddeutsche.de/,utf-8
+1,zeit,jobportals/2025-05-11-zeit.html,2025-05-11,200,https://www.zeit.de/index,UTF-8
+2,faz,jobportals/2025-05-11-faz.html,2025-05-11,200,https://www.faz.net/aktuell/,utf-8
+3,ts,jobportals/2025-05-11-ts.html,2025-05-11,200,https://www.tagesspiegel.de/,utf-8
+4,spiegel,jobportals/2025-05-11-spiegel.html,2025-05-11,200,https://www.spiegel.de/,utf-8
+5,kronen,jobportals/2025-05-11-kronen.html,2025-05-11,200,https://www.krone.at/,ISO-8859-1
